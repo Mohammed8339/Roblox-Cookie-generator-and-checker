@@ -9,13 +9,17 @@ Features:
 <b> <br>
 Check Roblox Cookies <br>
 
-Generates Random Roblox Cookies
+Generates random cookies and checks them
+ 
+Check Singular Cookies
+
+Check cookies in a List 
   
-Log Cookies
+Log Cookie and Robux
 
 </b>
 
-once again credits to Kingollie2552 for showing his method of checking roblox cookies
+once again credits to Kingollie2552 for showing the method used in this repo for checking roblox cookies
 
 repository:
 https://github.com/Kingollie2552/Roblox-CookieChecker-Bot
